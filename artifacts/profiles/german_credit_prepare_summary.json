@@ -1,0 +1,8 @@
+{
+  "categorical_output": "/Users/ememakpan/Documents/New project/applied_ai_economics_portfolio/project_01_ai_credit_risk_platform/data/interim/statlog_german_credit/german_credit_standardized.csv",
+  "numeric_output": "/Users/ememakpan/Documents/New project/applied_ai_economics_portfolio/project_01_ai_credit_risk_platform/data/interim/statlog_german_credit/german_credit_numeric_standardized.csv",
+  "categorical_rows": 1000,
+  "numeric_rows": 1000,
+  "categorical_columns": 24,
+  "numeric_columns": 28
+}

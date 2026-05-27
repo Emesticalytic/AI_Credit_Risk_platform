@@ -1,0 +1,26 @@
+.DS_Store
+**/.DS_Store
+
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+.pytest_cache/
+.ipynb_checkpoints/
+.mpl-cache/
+*.egg-info/
+src/*.egg-info/
+notebooks/* 2.ipynb
+
+.venv/
+venv/
+env/
+
+*.log
+Rplots.pdf
+
+artifacts/logs/
+artifacts/eda/test_plot.png
+
+.env
+.env.*

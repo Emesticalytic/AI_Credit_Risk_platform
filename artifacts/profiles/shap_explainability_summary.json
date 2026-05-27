@@ -1,0 +1,49 @@
+{
+  "champion_model": "random_forest",
+  "model_path": "models/random_forest_champion_pipeline.joblib",
+  "top_10_global_features": [
+    {
+      "feature": "categorical__checking_account_status_A14",
+      "mean_abs_shap": 0.07326332596606096
+    },
+    {
+      "feature": "categorical__checking_account_status_A11",
+      "mean_abs_shap": 0.03683178655582354
+    },
+    {
+      "feature": "numeric__duration_months",
+      "mean_abs_shap": 0.03668818797046182
+    },
+    {
+      "feature": "categorical__savings_account_A61",
+      "mean_abs_shap": 0.028420530699067293
+    },
+    {
+      "feature": "categorical__credit_history_A34",
+      "mean_abs_shap": 0.024395159363008817
+    },
+    {
+      "feature": "numeric__credit_amount",
+      "mean_abs_shap": 0.021303889852295334
+    },
+    {
+      "feature": "categorical__other_installment_plans_A143",
+      "mean_abs_shap": 0.016192201252004792
+    },
+    {
+      "feature": "numeric__age_years",
+      "mean_abs_shap": 0.015374151591399498
+    },
+    {
+      "feature": "categorical__savings_account_A65",
+      "mean_abs_shap": 0.014914838431516362
+    },
+    {
+      "feature": "categorical__housing_A152",
+      "mean_abs_shap": 0.01426409732556686
+    }
+  ],
+  "local_applicant_index": 522,
+  "local_applicant_predicted_high_risk_probability": 0.7914,
+  "local_applicant_actual_target": 1
+}

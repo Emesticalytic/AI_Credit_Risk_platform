@@ -1,0 +1,7 @@
+batch,decision,applicants,share
+new_batch,approve,78,0.52
+new_batch,manual_review,58,0.3867
+new_batch,reject,14,0.0933
+reference,approve,70,0.4667
+reference,manual_review,62,0.4133
+reference,reject,18,0.12

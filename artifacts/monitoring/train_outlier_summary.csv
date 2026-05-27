@@ -1,0 +1,11 @@
+column,q_low,q_high
+TARGET,0.0,1.0
+age_years,20.0,66.00999999999999
+applicant_id,10.99,988.01
+credit_amount,427.81,12682.959999999997
+duration_months,6.0,60.0
+existing_credits_count,1.0,3.0
+installment_rate_pct_income,1.0,4.0
+liable_people_count,1.0,2.0
+present_residence_years,1.0,4.0
+risk_class,1.0,2.0

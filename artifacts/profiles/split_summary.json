@@ -1,0 +1,6 @@
+{
+  "train_rows": 600,
+  "validation_rows": 200,
+  "test_rows": 200,
+  "target_column": "TARGET"
+}

@@ -1,0 +1,51 @@
+{
+  "random_state": 42,
+  "split_strategy": "stratified_random_split",
+  "split_ratio": {
+    "train": 0.7,
+    "validation": 0.15,
+    "test": 0.15
+  },
+  "target_col": "TARGET",
+  "excluded_from_features": [
+    "applicant_id",
+    "risk_class",
+    "risk_label",
+    "TARGET"
+  ],
+  "feature_count": 20,
+  "split_summary": [
+    {
+      "split": "full",
+      "rows": 1000,
+      "bad_count": 300,
+      "bad_rate": 0.3,
+      "good_count": 700,
+      "good_rate": 0.7
+    },
+    {
+      "split": "train",
+      "rows": 700,
+      "bad_count": 210,
+      "bad_rate": 0.3,
+      "good_count": 490,
+      "good_rate": 0.7
+    },
+    {
+      "split": "validation",
+      "rows": 150,
+      "bad_count": 45,
+      "bad_rate": 0.3,
+      "good_count": 105,
+      "good_rate": 0.7
+    },
+    {
+      "split": "test",
+      "rows": 150,
+      "bad_count": 45,
+      "bad_rate": 0.3,
+      "good_count": 105,
+      "good_rate": 0.7
+    }
+  ]
+}

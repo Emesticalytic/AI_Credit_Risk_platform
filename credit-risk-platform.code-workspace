@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "name": "AI Credit Risk Platform",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "/opt/anaconda3/bin/python",
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [
+      "tests"
+    ],
+    "files.exclude": {
+      "**/.DS_Store": true,
+      "**/__pycache__": true,
+      "**/.pytest_cache": true,
+      "**/.ipynb_checkpoints": true
+    }
+  }
+}

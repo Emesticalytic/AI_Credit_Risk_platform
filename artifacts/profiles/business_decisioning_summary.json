@@ -1,0 +1,9 @@
+{
+  "champion_model": "random_forest",
+  "approve_threshold": 0.4,
+  "reject_threshold": 0.65,
+  "decision_policy": "approve below approve_threshold, manual_review between thresholds, reject at or above reject_threshold",
+  "threshold_results_path": "artifacts/tables/threshold_analysis_validation.csv",
+  "decision_summary_path": "artifacts/tables/decision_band_summary_validation.csv",
+  "scored_validation_path": "artifacts/tables/scored_validation_decisions.csv"
+}

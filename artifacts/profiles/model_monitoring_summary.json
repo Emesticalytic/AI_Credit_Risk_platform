@@ -1,0 +1,15 @@
+{
+  "champion_model": "random_forest",
+  "reference_batch": "validation sample",
+  "new_batch": "simulated future batch using test sample",
+  "monitored_outputs": [
+    "score drift",
+    "decision mix drift",
+    "key feature drift",
+    "delayed outcome feedback loop"
+  ],
+  "score_drift_path": "artifacts/tables/monitoring_score_drift_summary.csv",
+  "decision_mix_path": "artifacts/tables/monitoring_decision_mix.csv",
+  "feature_drift_path": "artifacts/tables/monitoring_feature_drift_summary.csv",
+  "feedback_loop_path": "artifacts/tables/monitoring_feedback_loop_plan.csv"
+}

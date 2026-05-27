@@ -1,0 +1,116 @@
+{
+  "dataset_name": "german_credit_standardized",
+  "row_count": 1000,
+  "column_count": 24,
+  "duplicate_rows": 0,
+  "numeric_columns": [
+    "applicant_id",
+    "duration_months",
+    "credit_amount",
+    "installment_rate_pct_income",
+    "present_residence_years",
+    "age_years",
+    "existing_credits_count",
+    "liable_people_count",
+    "risk_class",
+    "TARGET"
+  ],
+  "categorical_columns": [
+    "checking_account_status",
+    "credit_history",
+    "purpose",
+    "savings_account",
+    "employment_duration",
+    "personal_status_sex",
+    "other_debtors_guarantors",
+    "property_type",
+    "other_installment_plans",
+    "housing",
+    "job_type",
+    "telephone",
+    "foreign_worker",
+    "risk_label"
+  ],
+  "top_missing_columns": [
+    {
+      "column": "applicant_id",
+      "missing_share": 0.0
+    },
+    {
+      "column": "checking_account_status",
+      "missing_share": 0.0
+    },
+    {
+      "column": "risk_label",
+      "missing_share": 0.0
+    },
+    {
+      "column": "risk_class",
+      "missing_share": 0.0
+    },
+    {
+      "column": "foreign_worker",
+      "missing_share": 0.0
+    },
+    {
+      "column": "telephone",
+      "missing_share": 0.0
+    },
+    {
+      "column": "liable_people_count",
+      "missing_share": 0.0
+    },
+    {
+      "column": "job_type",
+      "missing_share": 0.0
+    },
+    {
+      "column": "existing_credits_count",
+      "missing_share": 0.0
+    },
+    {
+      "column": "housing",
+      "missing_share": 0.0
+    },
+    {
+      "column": "other_installment_plans",
+      "missing_share": 0.0
+    },
+    {
+      "column": "age_years",
+      "missing_share": 0.0
+    },
+    {
+      "column": "property_type",
+      "missing_share": 0.0
+    },
+    {
+      "column": "present_residence_years",
+      "missing_share": 0.0
+    },
+    {
+      "column": "other_debtors_guarantors",
+      "missing_share": 0.0
+    },
+    {
+      "column": "personal_status_sex",
+      "missing_share": 0.0
+    },
+    {
+      "column": "installment_rate_pct_income",
+      "missing_share": 0.0
+    },
+    {
+      "column": "employment_duration",
+      "missing_share": 0.0
+    },
+    {
+      "column": "savings_account",
+      "missing_share": 0.0
+    },
+    {
+      "column": "credit_amount",
+      "missing_share": 0.0
+    }
+  ]
+}

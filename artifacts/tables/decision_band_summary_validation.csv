@@ -1,0 +1,4 @@
+decision,applicants,actual_high_risk_count,actual_high_risk_rate,avg_predicted_high_risk_probability
+approve,70,8,0.1143,0.2621
+manual_review,62,25,0.4032,0.5222
+reject,18,12,0.6667,0.7076

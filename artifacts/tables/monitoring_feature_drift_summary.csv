@@ -1,0 +1,5 @@
+,duration_months,duration_months,duration_months,credit_amount,credit_amount,credit_amount,age_years,age_years,age_years
+,mean,median,std,mean,median,std,mean,median,std
+batch,,,,,,,,,
+new_batch,20.65,18.0,12.45,3183.07,2022.0,3081.77,35.81,32.0,12.61
+reference,21.78,18.0,12.16,3687.91,2669.5,3186.1,35.65,32.5,12.07

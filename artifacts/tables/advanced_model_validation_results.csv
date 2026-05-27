@@ -1,0 +1,4 @@
+model,accuracy,balanced_accuracy,precision_bad_risk,recall_bad_risk,f1_bad_risk,roc_auc,pr_auc
+random_forest,0.7133,0.6937,0.5179,0.6444,0.5743,0.7873,0.6113
+xgboost,0.7,0.6778,0.5,0.6222,0.5545,0.7663,0.581
+lightgbm,0.6933,0.654,0.4902,0.5556,0.5208,0.7393,0.5853

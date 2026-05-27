@@ -1,0 +1,4 @@
+monitoring_layer,what_to_track,why_it_matters
+Immediate monitoring,"Input data, predicted risk scores, decision mix, API health",Detects distribution shifts before repayment outcomes are available
+Delayed outcome monitoring,Actual repayment/default outcomes joined back to original predictions,Shows whether the model remains accurate after real outcomes mature
+Retraining trigger,"Performance decay, score drift, feature drift, policy changes",Prevents unnecessary retraining while still responding to meaningful model degradation

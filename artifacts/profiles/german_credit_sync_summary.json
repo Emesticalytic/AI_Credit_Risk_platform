@@ -1,0 +1,17 @@
+{
+  "source_dir": "/Users/ememakpan/Downloads/statlog+german+credit+data",
+  "raw_dir": "/Users/ememakpan/Documents/New project/applied_ai_economics_portfolio/project_01_ai_credit_risk_platform/data/raw/statlog_german_credit",
+  "copied_files": [],
+  "verification": {
+    "raw_dir": "/Users/ememakpan/Documents/New project/applied_ai_economics_portfolio/project_01_ai_credit_risk_platform/data/raw/statlog_german_credit",
+    "exists": true,
+    "existing_files": [
+      "Index",
+      "german.data",
+      "german.data-numeric",
+      "german.doc"
+    ],
+    "missing_files": [],
+    "is_complete": true
+  }
+}
