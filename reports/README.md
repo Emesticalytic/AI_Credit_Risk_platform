@@ -1,6 +1,6 @@
 # Reporting Outputs
 
-Use this folder for:
+
 
 - figures
 - tables
